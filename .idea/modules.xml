@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/Ajax/Ajax.iml" filepath="$PROJECT_DIR$/CRMProject/Ajax/Ajax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/CRMProject.iml" filepath="$PROJECT_DIR$/CRMProject/CRMProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/Ajax/ajax01/ajax01.iml" filepath="$PROJECT_DIR$/CRMProject/Ajax/ajax01/ajax01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/项目前期准备.iml" filepath="$PROJECT_DIR$/.idea/项目前期准备.iml" />
+    </modules>
+  </component>
+</project>
