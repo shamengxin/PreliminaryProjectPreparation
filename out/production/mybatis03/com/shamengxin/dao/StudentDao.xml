@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.shamengxin.dao.StudentDao">
+
+    <select id="getAll" resultType="Student">
+
+        select * from tbl_student
+
+    </select>
+
+    <select id="getById" parameterType="java.lang.String" resultType="com.shamengxin.domain.Student">
+
+        select * from tbl_student where id=#{id}
+
+    </select>
+
+    <insert id="save">
+
+        insert into tbl_student(id,name,age) values (#{id},#{name},#{age})
+
+    </insert>
+
+</mapper>

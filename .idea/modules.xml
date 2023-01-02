@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CRMProject/Ajax/Ajax.iml" filepath="$PROJECT_DIR$/CRMProject/Ajax/Ajax.iml" />
       <module fileurl="file://$PROJECT_DIR$/CRMProject/CRMProject.iml" filepath="$PROJECT_DIR$/CRMProject/CRMProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/Mybatis/Mybatis.iml" filepath="$PROJECT_DIR$/CRMProject/Mybatis/Mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/CRMProject/Ajax/ajax01/ajax01.iml" filepath="$PROJECT_DIR$/CRMProject/Ajax/ajax01/ajax01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/Mybatis/mybatis01/mybatis01.iml" filepath="$PROJECT_DIR$/CRMProject/Mybatis/mybatis01/mybatis01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/Mybatis/mybatis02/mybatis02.iml" filepath="$PROJECT_DIR$/CRMProject/Mybatis/mybatis02/mybatis02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CRMProject/Mybatis/mybatis03/mybatis03.iml" filepath="$PROJECT_DIR$/CRMProject/Mybatis/mybatis03/mybatis03.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/项目前期准备.iml" filepath="$PROJECT_DIR$/.idea/项目前期准备.iml" />
     </modules>
   </component>
