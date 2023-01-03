@@ -105,6 +105,12 @@
                 name属性：指向dao层的包，表示该包下，所有的mapper映射文件自动注册
 
         -->
+        <!--
+
+            总结：
+                未来实际项目开发中，我们一定是批量注册mapper映射文件
+
+        -->
         <package name="com.shamengxin.dao"/>
 
     </mappers>
